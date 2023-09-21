@@ -3,3 +3,4 @@ its for demo
 sep 20 git remote repos
 changes mnde localley
 changes made remote
+gain localley
